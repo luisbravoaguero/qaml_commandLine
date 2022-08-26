@@ -1,0 +1,12 @@
+import java.util.ArrayList;
+
+public class Main {
+  public static void main(String[] args) {
+    ArrayList<String> alumnos= new ArrayList<String>();
+    alumnos.add("Luis");
+    alumnos.add("Nicole");
+    alumnos.add("Noel");
+    alumnos.add("Carmen");
+    System.out.println(alumnos);
+  }
+}
